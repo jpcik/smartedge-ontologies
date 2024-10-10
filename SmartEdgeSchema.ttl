@@ -8,7 +8,7 @@
 
 <http://www.semanticweb.org/SmartEdge/SmartEdgeSchema/> rdf:type owl:Ontology .
 
-<http://www.semanticweb.org/SmartEdge/SmartEdgeSchema/> rdf:type owl:Bowl .
+<http://www.semanticweb.org/SmartEdge/SmartEdgeSchema/> rdf:type owl:Powl .
 
 
 #################################################################
